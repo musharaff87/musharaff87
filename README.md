@@ -1,5 +1,6 @@
 # Hello, World! 👋 I'm Musharaf  
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-musharaff87&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Typing GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ### 🚀 About Me
