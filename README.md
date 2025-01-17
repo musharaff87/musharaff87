@@ -1,46 +1,60 @@
-# Hello, World! 👋 I'm Musharaf  
+# Hey there! 👋 I'm Mohammed Musharaf
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-musharaff87&theme=dark&background=000000)](https://git.io/streak-stats)
-![Typing GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ### 🚀 About Me
-Hi there! I'm Musharaf, a passionate backend developer, web enthusiast, and AI aficionado currently **drinking Web and AI for breakfast** ☕. I love crafting elegant solutions, building scalable systems, and exploring cutting-edge tech.
+Hello, I'm Musharaf, a tech enthusiast who thrives on innovation and creativity. I currently sip on **Web and AI** to fuel my day. Whether it's backend development, automation, or AI/ML projects, I’m always up for a challenge!
 
-### 👨‍💻 A Little Fun
-- **💡 Quote**: "Why just surf the web when you can create it?"
-- **🎯 Focus**: Web development, AI/ML, and automation.
-- **🌟 Motto**: Keep learning. Keep building. Keep evolving.
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 🛠️ Tech Stack
-- **Languages**: Ruby on Rails, Python, Java, JavaScript, TypeScript
-- **Frameworks**: React, SCSS, Flask, Express
-- **Databases**: PostgreSQL, Elasticsearch
-- **Tools**: Docker, Git, OpenAI APIs
+### 🌟 My Expertise
+- **Backend Development**: Rails, Python (Django), Node.js
+- **Frontend Development**: React, SCSS, JavaScript, TypeScript
+- **Databases**: PostgreSQL, Elasticsearch, Redis
+- **Tools & Platforms**: Docker, GCP, AWS S3/EC2, Grafana, Datadog
+- **AI & ML**: OpenAI API, scikit-learn, Eleven Labs API
 
-![Skills GIF](https://media.giphy.com/media/3o6ZsYmhxBs8n3mVZq/giphy.gif)
+![Tech Stack GIF](https://media.giphy.com/media/26gslQ81OZtrBoDMw/giphy.gif)
 
-### 🎨 Portfolio Highlights
-- **💻 Portfolio Project**: Responsive React app with cool animations ([Explore Here](#))
-- **📦 Hackathon Contributions**: Backend APIs and database structures for a learning platform
-- **🌐 Latest Idea**: An automatic video generator for YouTube and Instagram Shorts
+### 🛠️ GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=musharaff87&theme=dark&hide_border=true)
+
+### 💼 Work Experience
+- **Associate Software Engineer @ Vakilsearch**
+  - Upgraded Rails versions and optimized database queries (25% faster).
+  - Integrated Elasticsearch for high-speed search.
+  - Leveraged GCP, AWS S3, and Redis for scalability and efficiency.
+  - Improved CRM user insights by 40% with data analysis techniques.
+- **Freelance Developer**
+  - Delivered robust web apps and APIs for global clients (India, Israel, Germany).
+  - Deployed scalable applications on AWS EC2 with secure hosting.
+
+### 🎨 Projects
+- **Next-Generation YouTube Video Generator** (2024):
+  - Automated video creation with Gemini API, Eleven Labs API, MoviePy, and YouTube Data API.
+  - Integrated text-to-voice and image mapping for seamless content production.
+- **Dynamic Virtual Gesture System** (2022):
+  - Replaced physical I/O devices with OpenCV and PyAutoGUI.
+  - Enhanced accessibility using voice commands and gestures.
+- **Social Media Hangout App** (2023):
+  - Built real-time chat systems with Rails ActionCable and WebSocket.
+
+![Project GIF](https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif)
 
 ### 🏆 Achievements
-- Built scalable APIs for combined learning platforms targeting kids.
-- Contributed to GDD DevFest as a volunteer.
-- Proficient in integrating AI models like ChatGPT for practical projects.
+- **Best Initiative Award (2024)**: Increased Vakilsearch revenue by 30%.
+- **Hackathon Wins**: 
+  - Internal Smart India Hackathon (2022)
+  - Ko-Hacks Kotlin User Group Chennai (2024)
+- Published research on virtual assistance in **World Journal of Advanced Engineering**.
 
-### 📄 Resume
-Check out my [Resume](#) for more details.
-
-![Rocket GIF](https://media.giphy.com/media/3oEdv1hbwOWpRQCC6M/giphy.gif)
-
-### 📬 Get In Touch
-- **Email**: musharaf@example.com
-- **GitHub**: [Musharaf's GitHub](#)
-- **LinkedIn**: [Musharaf's LinkedIn](#)
+### 📬 Connect With Me
+- **Email**: [musharaff87@gmail.com](mailto:musharaff87@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mohammed-musharaf-z](https://www.linkedin.com/in/mohammed-musharaf-z/)
+- **GitHub**: [github.com/musharaff87](https://github.com/musharaff87)
 
 ---
 
-*"When I'm not coding, you'll find me experimenting with AI or sipping coffee while dreaming up the next big idea."*  
-![Coffee GIF](https://media.giphy.com/media/l0Hlym7CMHnLHFx0Q/giphy.gif)
+"Tech isn't just a profession; it's my playground!"  
+![Coffee GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
