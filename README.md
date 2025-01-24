@@ -8,13 +8,12 @@ Hello, I'm Musharaf, a tech enthusiast who thrives on innovation and creativity.
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🌟 My Expertise
-- **Backend Development**: Rails, Python (Django), Node.js
-- **Frontend Development**: React, SCSS, JavaScript, TypeScript
-- **Databases**: PostgreSQL, Elasticsearch, Redis
+- **Backend Development**: Ruby on Rails, Python, Django, Flask, C++
+- **Frontend Development**: JavaScript, SCSS, HTML5, CSS, Bootstrap, Ajax
+- **Databases**: PostgreSQL, Elasticsearch, Redis, SQL
 - **Tools & Platforms**: Docker, GCP, AWS S3/EC2, Grafana, Datadog
-- **AI & ML**: OpenAI API, scikit-learn, Eleven Labs API
+- **AI & ML**: OpenAI API, scikit-learn, Eleven Labs API, Google Cloud Console
 
-![Tech Stack GIF](https://media.giphy.com/media/26gslQ81OZtrBoDMw/giphy.gif)
 
 ### 🛠️ GitHub Contributions
 
