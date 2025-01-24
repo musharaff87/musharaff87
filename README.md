@@ -17,7 +17,6 @@ Hello, I'm Musharaf, a tech enthusiast who thrives on innovation and creativity.
 ![Tech Stack GIF](https://media.giphy.com/media/26gslQ81OZtrBoDMw/giphy.gif)
 
 ### 🛠️ GitHub Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=musharaff87&theme=dark&hide_border=true)
 
 ### 💼 Work Experience
 - **Associate Software Engineer @ Vakilsearch**
@@ -39,7 +38,6 @@ Hello, I'm Musharaf, a tech enthusiast who thrives on innovation and creativity.
 - **Social Media Hangout App** (2023):
   - Built real-time chat systems with Rails ActionCable and WebSocket.
 
-![Project GIF](https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif)
 
 ### 🏆 Achievements
 - **Best Initiative Award (2024)**: Increased Vakilsearch revenue by 30%.
@@ -56,5 +54,4 @@ Hello, I'm Musharaf, a tech enthusiast who thrives on innovation and creativity.
 ---
 
 "Tech isn't just a profession; it's my playground!"  
-![Coffee GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
